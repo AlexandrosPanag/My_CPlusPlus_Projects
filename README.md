@@ -11,4 +11,7 @@
 πρόγραμμα για Windows σε έναν υπολογιστή Macintosh. Έτσι, είναι απαραίτητη η εκ
 νέου μεταγλώττιση του πηγαίου κώδικα (source code) για κάθε αρχιτεκτονική στην
 οποία θέλουμε να τρέξουμε το πρόγραμμα.
+
+
+---
 ΠΗΓΗ : https://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf
