@@ -1,4 +1,6 @@
 # My_C++_Projects
+-------------------------
+![](https://th.bing.com/th/id/Rab69e85c1a89fef82f4fe5e87bd9da33?rik=dsuoqWvxOp%2f6BQ&pid=ImgRaw)
 Ό,τι έχω δημιουργήσει απο τη γλώσσα προγραμματισμού C++ !
 
 Σχετικά με τη C++
