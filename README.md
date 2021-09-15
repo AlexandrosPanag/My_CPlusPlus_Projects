@@ -1,23 +1,21 @@
 # My_C++_Projects
 -------------------------
 ![](https://th.bing.com/th/id/Rab69e85c1a89fef82f4fe5e87bd9da33?rik=dsuoqWvxOp%2f6BQ&pid=ImgRaw)
-Ό,τι έχω δημιουργήσει απο τη γλώσσα προγραμματισμού C++ !
 
-Σχετικά με τη C++
-Μια συνηθισμένη γλώσσα προγραμματισμού (π.χ. C, C++, PASCAL) μεταγλωττίζει τον
-πηγαίο κώδικα του προγράμματος σε εκτελέσιμη μορφή που να καταλαβαίνει ο
-επεξεργαστής. Η μορφή αυτή είναι η γλώσσα μηχανής, και διαφέρει για κάθε
-επεξεργαστή, αρχιτεκτονική και λειτουργικό σύστημα. Η εκτελέσιμη μορφή ενός
-προγράμματος για μια συγκεκριμένη αρχιτεκτονική, δεν είναι δυνατό να χρησιμοποιηθεί
-σε διαφορετική αρχιτεκτονική, δηλαδή δε μπορούμε να χρησιμοποιήσουμε το εκτελέσιμο
-πρόγραμμα για Windows σε έναν υπολογιστή Macintosh. Έτσι, είναι απαραίτητη η εκ
-νέου μεταγλώττιση του πηγαίου κώδικα (source code) για κάθε αρχιτεκτονική στην
-οποία θέλουμε να τρέξουμε το πρόγραμμα.
 
+C++ programming language was developed in 1980 by Bjarne Stroustrup at bell laboratories of AT&T (American Telephone & Telegraph), located in U.S.A.
+
+Bjarne Stroustrup is known as the founder of C++ language.
+
+It was develop for adding a feature of OOP (Object Oriented Programming) in C without significantly changing the C component.
+
+C++ programming is "relative" (called a superset) of C, it means any valid C program is also a valid C++ program.
 
 ---
-ΠΗΓΗ : https://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf
 
+
+
+SOURCE : https://www.javatpoint.com/cpp-history
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RANDOM ARRAY PROGRAM
