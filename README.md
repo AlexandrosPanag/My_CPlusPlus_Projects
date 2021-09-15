@@ -17,3 +17,10 @@
 
 ---
 ΠΗΓΗ : https://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RANDOM ARRAY PROGRAM
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Create a program that generates a random number based array of [100] size , that finds the minimum number, the biggest number and the average number
