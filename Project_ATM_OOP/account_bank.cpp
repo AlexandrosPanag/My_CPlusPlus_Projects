@@ -1,6 +1,8 @@
+//This code was designed by Alexandros Panagiotakopoulos
+
 
 #define CATCH_CONFIG_MAIN
-#include "C:\Users\Alex\Desktop/catch.hpp"
+#include "C:\Users\<yourusernamehere>\Desktop/catch.hpp"
 
 #include <iostream>
 #include <string>
