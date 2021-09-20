@@ -1,4 +1,4 @@
-/* ALEXANDROS PANAGIOTAKOPOULOS AM16108 */
+/* this code was designed by ALEXANDROS PANAGIOTAKOPOULOS  */
 
 #include <iostream>
 #include <fstream>
