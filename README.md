@@ -4,6 +4,10 @@
 
 
 
+✅ LinkedIn Skill Assessment badge
+https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
+
+
 My certificate from Sololearn , https://www.sololearn.com/Certificate/1051-17520389/jpg/
 
 
