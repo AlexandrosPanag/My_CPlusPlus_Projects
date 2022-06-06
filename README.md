@@ -8,8 +8,6 @@
 https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
 
 
-My certificate from Sololearn , https://www.sololearn.com/Certificate/1051-17520389/jpg/
-
 
 C++ programming language was developed in 1980 by Bjarne Stroustrup at bell laboratories of AT&T (American Telephone & Telegraph), located in U.S.A.
 
