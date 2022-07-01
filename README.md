@@ -1,9 +1,5 @@
-# My C++ Projects
+My C++ Projects
 -------------------------
-![](https://th.bing.com/th/id/Rab69e85c1a89fef82f4fe5e87bd9da33?rik=dsuoqWvxOp%2f6BQ&pid=ImgRaw)
-
-
-
 ✅ LinkedIn Skill Assessment badge
 https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
 
