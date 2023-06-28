@@ -19,5 +19,5 @@ C++ programming is "relative" (called a superset) of C, it means any valid C pro
 Compiler(s) (IDE) used: https://bloodshed.net , https://code.visualstudio.com , https://visualstudio.microsoft.com/downloads/
 
 
-Original Source can be found here : https://www.javatpoint.com/cpp-history
+Original source was taken from & can be found here : https://www.javatpoint.com/cpp-history
 
